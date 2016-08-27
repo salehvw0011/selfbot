@@ -10,12 +10,6 @@ Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 
-```bash
-سلام 
-آموزش ساخت سلف ربات توسط 
-#alireza_pt
-در کانال آموزشي ساخت ربات ضد اسپم تلگرام به آيدي
-@create_antispam_bot
 
 
 کد ها رو در زير ميزارم طبق فيلم آموزشي عمل کنيد
@@ -35,15 +29,3 @@ cd self_bot
 ./launch.sh install
 
 موفق باشيد
-```
-
-Security Team
------------------
-
-[HAJ PRO](http://telegram.me/alireza_PT)<br>
-
-
-Security Team Channel
------------------
-
-[my Team](http://telegram.me/create_antispam_bot)
